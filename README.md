@@ -18,7 +18,8 @@ continuar adicionando mais propriedades ou sair do programa. sempre que o mesmo
 adicionar uma propriedade ela será adicionada ao array.
 
 5º aqui criei uma condicional, que caso o usuário opte por sair do programa ele só precisaria
-escrever SAIR para que o mesmo aconteça.
+escrever SAIR para que o mesmo aconteça, assim que esta condição for comprida a variavel escolha
+passaria a possuir o valor true assim fazendo o laço parar.
 
 6º por ultimo como exigido pelo exercício após o fechamento do programa as propriedades
 armazenadas no array seria expostas na tela em ordem alfabética com o proposito de facilitar
