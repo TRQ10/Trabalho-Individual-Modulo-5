@@ -12,7 +12,7 @@ as propriedades de css que foram dadas pelo usuário.
 3º logo após criei uma váriavel chamada escolha que tem como padrão false e ela servirá
 como a condicional para fazer com que o laço de repetição funcione.
 
-4º Criei duas funções responsaveis pelos inputs, na primeira eu utilize 
+4º Criei duas funções responsaveis pelos inputs, na primeira eu utilizei 
 a propriedade push para pegar o valor deste primeiro input e joga-lo
 para dentro do array, e no segundo eu utilizei um switch case
 para limitar quais opções o usuario poderia escolher, como também defini
